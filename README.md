@@ -5,7 +5,8 @@ https://gist.github.com/mojsha/d0d57e29f2ed83643b2b85b0f4eadb62
 https://github.com/siamaksade/openshift-cd-demo.git
 - Gogs - local, painless git server
 https://github.com/siamaksade/gogs
-Gogs for OpenShift
+
+- Gogs for OpenShift
 Gogs is the Go Git service. Learn more about it at https://gogs.io/
 
 Running containers on OpenShift comes with certain security and other requirements. This repository contains:
