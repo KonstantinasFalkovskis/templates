@@ -16,6 +16,10 @@ https://github.com/openshift/origin/tree/release-3.9/examples/jenkins
 - NGINX OpenShift Router
 https://github.com/nginxinc/nginx-openshift-router
 https://github.com/sclorg/nginx-ex
+- Selenium OpenShift Templates
+https://github.com/KonstantinasFalkovskis/selenium-hub-openshift
+https://github.com/ddavison/selenium-openshift-templates
+
 
 
 # Services:
