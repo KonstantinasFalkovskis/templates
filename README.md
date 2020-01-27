@@ -7,6 +7,8 @@ https://github.com/siamaksade/openshift-cd-demo.git
 https://github.com/siamaksade/gogs
 - Sonar Qube
 https://github.com/siamaksade/sonarqube
+- OpenShift Deployer Plugin for Jenkins - enables Jenkins job to create containers(gears) on OpenShift and deploy applications to it
+https://github.com/KonstantinasFalkovskis/OpenShiftDeployerPlugin
 
 
 # Services:
