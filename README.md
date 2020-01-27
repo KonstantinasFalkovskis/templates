@@ -5,9 +5,8 @@ https://gist.github.com/mojsha/d0d57e29f2ed83643b2b85b0f4eadb62
 https://github.com/siamaksade/openshift-cd-demo.git
 - Gogs - local, painless git server
 https://github.com/siamaksade/gogs
-Gogs for OpenShift
-Gogs is the Go Git service. Learn more about it at https://gogs.io/
-After Gogs deployment, the first registered user will be admin. The default administrator can log into Admin > Users and authorize another user. A user will also be an > administrator if they register in the install page. Read more on Gogs FAQ
+- Sonar Qube
+https://github.com/siamaksade/sonarqube
 
 
 # Services:
