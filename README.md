@@ -13,6 +13,8 @@ https://github.com/KonstantinasFalkovskis/OpenShiftDeployerPlugin
 - Jenkins CICD server
 https://github.com/openshift/origin/tree/master/examples/jenkins
 https://github.com/openshift/origin/tree/release-3.9/examples/jenkins
+- NGINX OpenShift Router
+https://github.com/nginxinc/nginx-openshift-router
 
 
 # Services:
