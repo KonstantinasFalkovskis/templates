@@ -6,7 +6,6 @@ https://github.com/siamaksade/openshift-cd-demo.git
 - Gogs - local, painless git server
 https://github.com/siamaksade/gogs
 
-<p>
+
 -services:
-  <br>
   - Json To Yaml Converter https://www.json2yaml.com/
