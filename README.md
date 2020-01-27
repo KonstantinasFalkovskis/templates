@@ -1,1 +1,4 @@
-# templates
+# Openshift microservices templates
+- zalenium
+https://gist.github.com/mojsha/d0d57e29f2ed83643b2b85b0f4eadb62
+
