@@ -3,6 +3,7 @@
 https://gist.github.com/mojsha/d0d57e29f2ed83643b2b85b0f4eadb62
 - CICD-pipeline-template OC.V.3.9.0
 https://github.com/siamaksade/openshift-cd-demo.git
+https://github.com/KonstantinasFalkovskis/jenkins-openshift-pipeline
 - Gogs - local, painless git server
 https://github.com/siamaksade/gogs
 - Sonar Qube
