@@ -19,6 +19,7 @@ https://github.com/sclorg/nginx-ex
 - Selenium OpenShift Templates
 https://github.com/KonstantinasFalkovskis/selenium-hub-openshift
 https://github.com/ddavison/selenium-openshift-templates
+https://ddavison.io/2016/02/01/openshift-templates-for-selenium.html
 
 
 
