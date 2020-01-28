@@ -31,6 +31,9 @@ https://github.com/openshift/origin/tree/release-3.9/examples/storage-examples/g
 https://github.com/openshift/origin/tree/release-3.9/examples/helm
 https://blog.openshift.com/getting-started-helm-openshift/
 Install helm: https://github.com/KhashayarDanesh/helm-openshift
+-HAProxy
+https://github.com/myllynen/openshift-ha-load-balancer/blob/master/lb-ha-setup.yml
+https://www.youtube.com/watch?v=chwofyGr80c
 
 
 
