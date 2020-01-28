@@ -20,6 +20,9 @@ https://github.com/sclorg/nginx-ex
 https://github.com/KonstantinasFalkovskis/selenium-hub-openshift
 https://github.com/ddavison/selenium-openshift-templates
 https://ddavison.io/2016/02/01/openshift-templates-for-selenium.html
+- PastgressSql database
+https://github.com/openshift/origin/blob/release-3.9/examples/db-templates/postgresql-persistent-template.json
+
 
 
 
