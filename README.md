@@ -33,6 +33,7 @@ https://blog.openshift.com/getting-started-helm-openshift/
 Install helm: https://github.com/KhashayarDanesh/helm-openshift
 - HAProxy
 https://github.com/myllynen/openshift-ha-load-balancer/blob/master/lb-ha-setup.yml
+https://github.com/haproxytech/kubernetes-ingress/blob/master/deploy/haproxy-ingress.yaml
 https://www.youtube.com/watch?v=chwofyGr80c
 
 
