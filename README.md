@@ -6,6 +6,7 @@ https://github.com/siamaksade/openshift-cd-demo.git
 https://github.com/KonstantinasFalkovskis/jenkins-openshift-pipeline
 - Gogs - local, painless git server
 https://github.com/siamaksade/gogs
+https://github.com/KonstantinasFalkovskis/templates/blob/master/gogs-tempate.yaml
 - Sonar Qube
 https://github.com/siamaksade/sonarqube
 - OpenShift Deployer Plugin for Jenkins - enables Jenkins job to create containers(gears) on OpenShift and deploy applications to it
