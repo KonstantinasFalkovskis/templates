@@ -26,6 +26,8 @@ https://ddavison.io/2016/02/01/openshift-templates-for-selenium.html
 https://github.com/openshift/origin/blob/release-3.9/examples/db-templates/postgresql-persistent-template.json
 - GlusterFS
 https://github.com/openshift/origin/tree/release-3.9/examples/storage-examples/gluster-examples
+- Helm
+https://github.com/openshift/origin/tree/release-3.9/examples/helm
 
 
 
