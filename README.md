@@ -28,6 +28,8 @@ https://github.com/openshift/origin/blob/release-3.9/examples/db-templates/postg
 https://github.com/openshift/origin/tree/release-3.9/examples/storage-examples/gluster-examples
 - Helm
 https://github.com/openshift/origin/tree/release-3.9/examples/helm
+https://blog.openshift.com/getting-started-helm-openshift/
+Install helm: https://github.com/KhashayarDanesh/helm-openshift
 
 
 
