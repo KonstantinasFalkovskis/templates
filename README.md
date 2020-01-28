@@ -9,6 +9,7 @@ https://github.com/siamaksade/gogs
 https://github.com/KonstantinasFalkovskis/templates/blob/master/gogs-tempate.yaml
 - Sonar Qube
 https://github.com/siamaksade/sonarqube
+https://github.com/OpenShiftDemos/sonarqube-openshift-docker
 - OpenShift Deployer Plugin for Jenkins - enables Jenkins job to create containers(gears) on OpenShift and deploy applications to it
 https://github.com/KonstantinasFalkovskis/OpenShiftDeployerPlugin
 - Jenkins CICD server
