@@ -17,6 +17,7 @@ https://github.com/KonstantinasFalkovskis/OpenShiftDeployerPlugin
 https://github.com/openshift/origin/tree/master/examples/jenkins
 https://github.com/openshift/origin/tree/release-3.9/examples/jenkins
 - NGINX OpenShift Router
+https://github.com/openshift/origin/tree/release-3.9/images/router
 https://github.com/nginxinc/nginx-openshift-router
 https://github.com/sclorg/nginx-ex
 - Selenium-Hub (selenium-grid) OpenShift Templates
@@ -32,9 +33,12 @@ https://github.com/openshift/origin/tree/release-3.9/examples/helm
 https://blog.openshift.com/getting-started-helm-openshift/
 Install helm: https://github.com/KhashayarDanesh/helm-openshift
 - HAProxy
+https://github.com/openshift/origin/tree/release-3.9/images/router
 https://github.com/myllynen/openshift-ha-load-balancer/blob/master/lb-ha-setup.yml
 https://github.com/haproxytech/kubernetes-ingress/blob/master/deploy/haproxy-ingress.yaml
 https://www.youtube.com/watch?v=chwofyGr80c
+- F5
+https://github.com/openshift/origin/tree/release-3.9/images/router
 
 
 
